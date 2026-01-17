@@ -1,0 +1,9 @@
+                             Costructor
+
+It is key word in java.
+Used for memory saving purpose.
+single copy storage. 
+We can  make global Variable ,method & block static.
+We can not  male local variable ,class & constructor.
+static  things goes into memory before object creation.
+
